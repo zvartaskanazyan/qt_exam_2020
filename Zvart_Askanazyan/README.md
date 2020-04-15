@@ -9,7 +9,4 @@ The main window consists of the following parts:
     The first  table is sortable.
     The second table is sortable and filterable.
     NOTE: Filtering process is case sensitive.
-
-
-
-
+All table views used the same data model.
