@@ -15,7 +15,7 @@
 #include <QLabel>
 #include <QFrame>
 #include <QRect>
-#include <QTableWidget>
+
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
